@@ -1,7 +1,7 @@
 Nivel de Experiencia del Desarrollador de PHP
 ==================
 
-Esta es una guía para mostrar de manera general el conocimiento técnico que se recomienda debe saber los desarrolladores web de PHP
+Esta es una guía para mostrar de manera general el conocimiento técnico que se recomienda debe saber los desarrolladores de PHP.
 
 Desarrollador Básico o Junior
 -----------
@@ -51,10 +51,10 @@ Desarrollador Avanzado o Master
 Conocimientos generales de desarrollo web
 -----------
 
-Conocimientos básicos de HTML, CSS y JavaScript
-Manejo de sistemas de manejo de versiones (Git o SVN)
-Configuración básica del servidor web Apache
-Depuración de código sin mandar mensajes visibles al usuario
-Conocimiento de SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion)
-Conocimiento de Test-driven development (TDD)
+- Conocimientos básicos de HTML, CSS y JavaScript
+- Manejo de sistemas de manejo de versiones (Git o SVN)
+- Configuración básica del servidor web Apache
+- Depuración de código sin mandar mensajes visibles al usuario
+- Conocimiento de SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion)
+- Conocimiento de Test-driven development (TDD)
 
