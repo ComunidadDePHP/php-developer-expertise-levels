@@ -34,19 +34,19 @@ Desarrollador Medio o Senior
 Desarrollador Avanzado o Master
 -----------
 
-De 4 a 6 años de trabajo en PHP
-Dominio de ORM con PHP
-Opreación mas de 2 manejadores de bases de datos
-Construcción de APIS en PHP
-Dominio de 2 Framework de PHP
-Manejo Pruebas Unitarias en PHP
-Manejo de NameSpace con PHP
-Manejo de patrón de diseño Factory en PHP
-Manejo del patrón de diseño Front Controlleren PHP
-Manejo del patrón de diseño Singleton en PHP
-Manejo del patrón de diseño Inyección de Dependencias en PHP
-Instalar y configurar PHP y Mysql con Apache y otros servidores web en cualquier sistema operativo
-Conocimientos básicos de Extensiones en C
+- De 4 a 6 años de trabajo en PHP
+- Dominio de ORM con PHP
+- Operación mas de 2 manejadores de bases de datos
+- Construcción de APIS en PHP
+- Dominio de 2 Framework de PHP
+- Manejo Pruebas Unitarias en PHP
+- Manejo de NameSpace con PHP
+- Manejo de patrón de diseño Factory en PHP
+- Manejo del patrón de diseño Front Controlleren PHP
+- Manejo del patrón de diseño Singleton en PHP
+- Manejo del patrón de diseño Inyección de Dependencias en PHP
+- Instalar y configurar PHP y Mysql con Apache y otros servidores web en cualquier sistema operativo
+- Conocimientos básicos de Extensiones en C
 
 Conocimientos generales de desarrollo web
 -----------
