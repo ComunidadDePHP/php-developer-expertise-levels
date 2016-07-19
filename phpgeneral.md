@@ -1,7 +1,7 @@
-Nivel de Desarrollador Web de PHP
+Nivel de Experiencia del Desarrollador de PHP
 ==================
 
-Esta es una guía para mostrar de manera general el conocimiento tecnico que se recomienda debe saber los desarrolladores web de PHP
+Esta es una guía para mostrar de manera general el conocimiento técnico que se recomienda debe saber los desarrolladores web de PHP
 
 Desarrollador Básico o Junior
 -----------
