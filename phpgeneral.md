@@ -13,13 +13,13 @@ Desarrollador Básico o Junior
 - Conocimientos básicos de la clase Mysqli de PHP
 - Instalar entorno de trabajo de PHP con software de terceros
 
-Desarrollador Medio o Senior
+Desarrollador Medio o Semi-Senior
 -----------
 
 - De 2 a 4 años de trabajo en PHP
 - Dominio de Programación Orientada a Objetos en PHP
 - Conocimientos de desarrollo con el patrón de diseño MVC
-- Conocimientos de ORM (Object-Relational Mapping)
+- Conocimientos de ORM (Object-Relational Mapping) y su query builder
 - Operación de  2 manejadores de bases de datos
 - Compresión de protección web ( SQL Injection, XSS, sanitización de datos, etc)
 - Consumo de API de terceros
@@ -27,34 +27,26 @@ Desarrollador Medio o Senior
 - Uso de un framework de PHP
 - Manejo de plantillas con PHP
 - Manejo de dependencias con Composer
-- Instalar Apache, php y Mysql de manera manual en Linux y Windows
+- Instalar y configurar de WebServer LAMP
 - Uso de PHP Standard Recommendation (PSR)
 - Conocimiento de SPL por las siglas de Standard PHP Library
 
-Desarrollador Avanzado o Master
+Desarrollador Senior
 -----------
 
-- De 4 a 6 años de trabajo en PHP
-- Dominio de ORM con PHP
-- Operación mas de 2 manejadores de bases de datos
-- Construcción de APIS en PHP
-- Dominio de 2 Framework de PHP
+- Mas de 5 años de trabajo desarrollando PHP y otros lenguajes.
+- Mas de 7 proyectos con distintos negocios
+- Solidos conocimientos en HTTP, Request, CORS, OAUTH
+- Experiencia con capas de cache
+- Experiencia con servicios de mensajeria
+- Interpretación completa del funcionamiento de un framework MVC
+- Profiler y Debuggin por IDE
 - Manejo Pruebas Unitarias en PHP
-- Manejo de NameSpace con PHP
-- Manejo de patrón de diseño Factory en PHP
-- Manejo del patrón de diseño Front Controlleren PHP
-- Manejo del patrón de diseño Singleton en PHP
-- Manejo del patrón de diseño Inyección de Dependencias en PHP
-- Instalar y configurar PHP y Mysql con Apache y otros servidores web en cualquier sistema operativo
-- Conocimientos básicos de Extensiones en C
-
-Conocimientos generales de desarrollo web
------------
-
-- Conocimientos básicos de HTML, CSS y JavaScript
-- Manejo de sistemas de manejo de versiones (Git o SVN)
-- Configuración básica del servidor web Apache
-- Depuración de código sin mandar mensajes visibles al usuario
+- Uso de NameSpace
+- Manejo de los patrónes de diseño
+- Instalar y configurar de WebServer LEMP
+- Experiencia en proyecto con integración continua
+- Manejo de sistemas de manejo de versiones Git
 - Conocimiento de SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion)
 - Conocimiento de Test-driven development (TDD)
-
+- Conocimiento de Sistemas para monitorear aplicaciones
